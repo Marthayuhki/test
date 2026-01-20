@@ -1,0 +1,5 @@
+{
+  "name": "LibSeat",
+  "description": "A mobile-first library seat reservation MVP with real-time seat status, reservation management, and AI assistance.",
+  "requestFramePermissions": []
+}
